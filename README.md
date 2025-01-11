@@ -37,6 +37,11 @@
             Data: Outubro de 2023<br>
             <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/99626/e474a08f41315b39dbda103362de2ec2/certificado.png">🔗 Verificação</a>
         </li>
+        <li><strong>ISO/IEC 27001:2022 INFORMATION SKILLFRONT SECURITY ASSOCIATE</strong><br>
+            Emitido por: Skill Front<br>
+            Data: Janeiro de 2025<br>
+            <a href="https://www.skillfront.com/Badges/38474658819227">🔗 Verificação</a>
+        </li>
     </ul>
 </div>
 
