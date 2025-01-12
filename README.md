@@ -42,6 +42,11 @@
             Data: Janeiro de 2025<br>
             <a href="https://www.skillfront.com/Badges/38474658819227">🔗 Verificação</a>
         </li>
+        <li><strong>Java Fundamentos</strong><br>
+            Emitido por: FIAP<br>
+            Data: Janeiro de 2025<br>
+            <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/135766/d745307f8550a3ec07ec87d4cbde5ce5/certificado.png">🔗 Verificação</a>
+        </li>
     </ul>
 </div>
 
