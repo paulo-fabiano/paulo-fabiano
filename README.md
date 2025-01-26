@@ -17,9 +17,10 @@
 
 <div id="projects">
     <h2>📂 Projetos em destaque</h2>
-    <ul>
-        <li><a href="https://github.com/paulo-fabiano/api-crud.git"><strong>Sistema de Estoque - Backend</strong></a>: Um sistema simples para gerenciar produtos e estoque usando Java e Spring Boot.</li>
+    <ul>        
+        <li><a href="https://github.com/paulo-fabiano/cadvisor-monitor/"><strong>Monitoramento de Containers Docker</strong></a>: Projeto para monitorar a infraestrutura Docker com cAdvisor, Prometheus, Grafana e Python.</li>
         <li><a href="https://github.com/paulo-fabiano/system-monitor.git"><strong>Monitoramento com Playwright</strong></a>: Sistema de monitoramento de rotas API com Playwright, Docker, Postgres e Grafana.</li>
+        <li><a href="https://github.com/paulo-fabiano/api-crud.git"><strong>Sistema de Estoque - Backend</strong></a>: Um sistema simples para gerenciar produtos e estoque usando Java e Spring Boot.</li>
     </ul>
 </div>
 
