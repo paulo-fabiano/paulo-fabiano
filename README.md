@@ -1,6 +1,6 @@
 <div id="about">
     <h1>Olá, eu sou Paulo Fabiano 👋</h1>
-    <p>Sou apaixonado por tecnologia, especialmente em áreas como desenvolvimento back-end, DevOps e banco de dados. Estou constantemente aprendendo para crescer como profissional e explorar o impacto positivo que a tecnologia pode trazer.</p>
+    <p>🎓 Estudante de Engenharia de Software e apaixonado por tecnologia, especialmente em áreas como desenvolvimento Back-end, DevOps e Banco de dados.</p>
 </div>
 
 <div id="technologies">
@@ -21,33 +21,7 @@
         <li><a href="https://github.com/paulo-fabiano/cadvisor-monitor/"><strong>Monitoramento de Containers Docker</strong></a>: Projeto para monitorar a infraestrutura Docker com cAdvisor, Prometheus, Grafana e Python.</li>
         <li><a href="https://github.com/paulo-fabiano/system-monitor.git"><strong>Monitoramento com Playwright</strong></a>: Sistema de monitoramento de rotas API com Playwright, Docker, Postgres e Grafana.</li>
         <li><a href="https://github.com/paulo-fabiano/api-crud.git"><strong>Sistema de Estoque - Backend</strong></a>: Um sistema simples para gerenciar produtos e estoque usando Java e Spring Boot.</li>
-    </ul>
-</div>
-
-<div id="certifications">
-    <h2>🏅 Certificações</h2>
-    <ul>
-        <li><strong>Certified Network Security Practitioner (CNSP)</strong><br>
-            Emitido por: The SecOps Group<br>
-            Data: Julho de 2024<br>
-            Código da credencial: 8911076<br>
-            <a href="https://secops.group/certificate-validation/">🔗 Verificação</a>
-        </li>
-        <li><strong>Linux Fundamentos</strong><br>
-            Emitido por: FIAP<br>
-            Data: Outubro de 2023<br>
-            <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/99626/e474a08f41315b39dbda103362de2ec2/certificado.png">🔗 Verificação</a>
-        </li>
-        <li><strong>ISO/IEC 27001:2022 INFORMATION SKILLFRONT SECURITY ASSOCIATE</strong><br>
-            Emitido por: Skill Front<br>
-            Data: Janeiro de 2025<br>
-            <a href="https://www.skillfront.com/Badges/38474658819227">🔗 Verificação</a>
-        </li>
-        <li><strong>Java Fundamentos</strong><br>
-            Emitido por: FIAP<br>
-            Data: Janeiro de 2025<br>
-            <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/135766/d745307f8550a3ec07ec87d4cbde5ce5/certificado.png">🔗 Verificação</a>
-        </li>
+        <li><a href="https://github.com/paulo-fabiano/java-lista_telefonica"><strong>API Rest Java - Backend</strong></a>: API Rest simples com Java e Spring Boot.</li>
     </ul>
 </div>
 
