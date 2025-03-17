@@ -27,3 +27,11 @@
         <li>Email: <a href="mailto:pfabianof@gmail.com">pfabianof@gmail.com</a></li>
     </ul>
 </div>
+
+<div id="medium">
+    <h2>📖 Veja meus posts no Medium</h2>
+    <p>Confira meus artigos!</p>
+    <ul>
+        <li>📝 Medium: <a href="https://medium.com/@paulofabiano" target="_blank"><strong>Paulo Fabiano - Medium</strong></a></li>
+    </ul>
+</div>
