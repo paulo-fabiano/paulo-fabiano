@@ -4,7 +4,8 @@
 
 ### 🚀 DevOps Engineer
 
-[PT-BR](./README-pt-br.md) | **EN**
+[PT-BR](./README.md) | **EN**
+
 
 </div>
 
@@ -12,7 +13,7 @@
 
 ## 📌 About Me
 
-I'm a DevOps Enginner. I have hands-on experience with containerization, orchestration, CI/CD, and application monitoring. I'm constantly seeking to deepen my knowledge in modern deployment practices and scalability.
+I'm a DevOps Engineer with hands-on experience in containerization, orchestration, CI/CD, and application monitoring. I'm constantly seeking to deepen my knowledge in modern deployment practices, scalability, and infrastructure automation. I hold the CKAD certification and actively contribute to DevOps projects.
 
 ---
 
@@ -27,8 +28,8 @@ I'm a DevOps Enginner. I have hands-on experience with containerization, orchest
 
 ### DevOps & Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EB6E20.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EB6E20.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -64,6 +65,33 @@ I'm a DevOps Enginner. I have hands-on experience with containerization, orchest
 
 ---
 
+## 🏆 Certifications
+
+<div align="center">
+
+[![CKAD](https://img.shields.io/badge/CKAD-Certified%20Kubernetes%20Application%20Developer-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/e49f0a44-8b88-4874-87d2-e4ee626b478d/linked_in_profile)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🎯 [Goldilocks with Helm](https://github.com/paulo-fabiano/poc-goldilocks)
+Helm chart implementation for Goldilocks - A resource request rightsize recommender for Kubernetes workloads. This project demonstrates:
+- Helm templating best practices
+- Resource management optimization
+- Production-ready configurations
+
+
+**Tech Stack:** Kubernetes · Helm · Goldilocks
+
+---
+
+👉 [View all repositories](https://github.com/paulo-fabiano?tab=repositories)
+
+---
+
 ## 📫 Get In Touch
 
 <div align="center">
@@ -71,6 +99,7 @@ I'm a DevOps Enginner. I have hands-on experience with containerization, orchest
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-fabiano/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfabianof@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@paulofabiano)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulo-fabiano)
 
 **Location:** Brazil 📍
 
@@ -78,9 +107,9 @@ I'm a DevOps Enginner. I have hands-on experience with containerization, orchest
 
 ---
 
-## 📖 Check Out My Articles and My Repositories
+## 📖 Check Out My Articles
 
-Explore my thoughts and insights about infrastructure and DevOps on [Medium](https://medium.com/@paulofabiano) and here on [GitHub](https://github.com/paulo-fabiano?tab=repositories).
+Explore my thoughts and insights about infrastructure and DevOps on [Medium](https://medium.com/@paulofabiano).
 
 ---
 
