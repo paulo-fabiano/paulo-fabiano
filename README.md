@@ -4,7 +4,7 @@
 
 ### 🚀 DevOps Engineer
 
-[PT-BR](./README.md) | **EN**
+[PT-BR](./README-pt-br.md) | **EN**
 
 
 </div>
